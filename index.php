@@ -204,7 +204,7 @@
                         </div>
                         <div class="col-12 col-md-4 reveal-2">
                             <article class="card">
-                                <img src="https://via.placeholder.com/150x150" alt="John Doe picture">
+                                <img src="https://raw.githubusercontent.com/musab-tatek/abyssinia-coin/main/img/150x150.png">
                                 <h3>Musab Elias</h3>
                                 <h4>CEO</h4>                                <p>
                                     <a target="_blank" href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -214,7 +214,7 @@
                         </div>
                         <div class="col-12 col-md-4 reveal-3">
                             <article class="card">
-                                <img src="https://via.placeholder.com/150x150" alt="John Doe picture">
+                                <img src="https://raw.githubusercontent.com/musab-tatek/abyssinia-coin/main/img/150x150.png">
                                 <h3>Ahmed Mohammed</h3>
                                 <h4>CFO</h4>
                                 <p>
@@ -225,7 +225,7 @@
                         </div>
                         <div class="col-12 col-md-4 reveal-4">
                             <article class="card">
-                                <img src="https://via.placeholder.com/150x150" alt="John Doe picture">
+                                <img src="https://raw.githubusercontent.com/musab-tatek/abyssinia-coin/main/img/150x150.png">
                                 <h3>Miftah Abdulkadir</h3>
                                 <h4>CMO</h4>
                                 <p>
@@ -236,7 +236,7 @@
                         </div>
                         <div class="col-12 col-md-4 reveal-4">
                             <article class="card">
-                                <img src="https://via.placeholder.com/150x150" alt="John Doe picture">
+                                <img src="https://raw.githubusercontent.com/musab-tatek/abyssinia-coin/main/img/150x150.png">
                                 <h3>Musab Tatek</h3>
                                 <h4>CTO</h4>
                                 <p>
