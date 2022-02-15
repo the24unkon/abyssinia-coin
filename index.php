@@ -2,8 +2,8 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name="description" content="Ikuna - Free crypto website template by Middle Agency">
-        <meta name="author" content="Arthur Rebré & Middle Agency">
+        <meta name="description" content="Ethiopian -  crypto website">
+        <meta name="author" content="Musab Tatek">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
