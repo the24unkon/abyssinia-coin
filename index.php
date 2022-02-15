@@ -105,8 +105,6 @@
                         <li><a href="#about">About us</a></li>
                         <li><a href="#features">Features</a></li>
                         <li><a href="#team">Team</a></li>
-                        <li><a href="#partners">Partners</a></li>
-                        <li><a href="#roadmap">Roadmap</a></li>
                     </ul>
                 </nav>
             </div>
