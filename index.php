@@ -184,11 +184,11 @@
                         </article>
                         <article class="col-12 col-md-6 reveal-2">
                             <i class="fab fa-connectdevelop"></i>
-                            <p><strong>Security</strong> Modular ''security as a service'', provided either by Ethereum or by a pool of professional validators</p>   
+                            <p><strong>Security</strong> Modular ''security as a service'', provided either by Abyssinia Coin or by a pool of professional validators</p>   
                         </article>
                         <article class="col-12 col-md-6 reveal-2">
                             <i class="fas fa-exchange-alt"></i>
-                            <p><strong>Developer Experience</strong> Equivalent to Ethereum, no protocol level knowledge required, no token deposits, fees or permissions</p>   
+                            <p><strong>Developer Experience</strong> Equivalent to Abyssinia Coin, no protocol level knowledge required, no token deposits, fees or permissions</p>   
                         </article>
                     </div>
                 </div>
